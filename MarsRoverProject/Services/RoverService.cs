@@ -107,7 +107,6 @@ namespace MarsRoverProject.Services
             }
             return angle;
         }
-
         public string GetDirection(int angle)
         {           
             string Direction = null;
